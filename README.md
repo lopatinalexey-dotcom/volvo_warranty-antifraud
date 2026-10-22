@@ -74,3 +74,4 @@ WHERE d.item_type = 'Деталь'
       SELECT order_id FROM volvo_antifraud.order_details WHERE sku_or_operation = '21005' -- Код замены ДВС
   );
 ```
+<img width="900" height="600" alt="dashboard" src="https://github.com/user-attachments/assets/b14c0b38-6109-4499-8d22-cf7b7c55e6e7" />
